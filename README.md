@@ -1,5 +1,9 @@
 # InnovateMU Hackathon
 
+
+
+
+
 # Malaria Image Classification using CNN
 A **Convolutional Neural Network (CNN)** based machine learning model to detect **malaria-infected blood cells**. This project was developed for the **InnovateMU Hackathon** to demonstrate how AI can assist in early malaria diagnosis.
 
