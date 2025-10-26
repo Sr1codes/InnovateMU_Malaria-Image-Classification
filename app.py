@@ -17,6 +17,6 @@ if file:
   
   # Display prediction results
   if pred > 0.5:
-    st.error("Uninfected Cell Detected")
+    st.success("Uninfected Cell Detected")
   else:
-    st.success("Infected Cell Detected")
+    st.error("Infected Cell Detected")
