@@ -57,6 +57,11 @@ streamlit run app.py
 ```
 4. Upload an image of a blood cell and see the prediction (Parasitized vs Uninfected).
 
+## Example Outputs
+![Infected Cell](images/example1.png)
+
+![Uninfected Cell](images/example2.png)
+
 ## Acknowledgements
 * Dataset: [Kaggle - Cell Images for Detecting Malaria](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
 * Hackathon: **InnovateMU 2025**
