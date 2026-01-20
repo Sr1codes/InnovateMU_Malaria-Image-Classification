@@ -29,3 +29,7 @@ build/
 
 # Logs
 *.log
+
+# data files
+data/
+*.zip
